@@ -6,3 +6,5 @@ src
    | imgs
    | js
    | sass
+#Install
+npm i
